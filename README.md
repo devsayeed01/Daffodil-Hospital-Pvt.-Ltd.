@@ -13,3 +13,5 @@ Objectives -> To design a relational database that securely stores patient, doct
 -> To ensure data reliability through the use of MySQL transactions and rollback mechanisms.
 
 Existing hospital management systems often range from simple scheduling apps to enterprise-level software like Oracle Health. While commercial systems offer high complexity, they are often too expensive for smaller private hospitals. This project contributes a lightweight, cost-effective web application using the PHP/MySQL stack. Similar to existing platforms, this system supports CRUD (Create, Read, Update, Delete) operations for hospital resources but specifically focuses on the immediate needs of a localized facility like Daffodil Smart City and the Savar area.
+
+<img width="1918" height="878" alt="Screenshot 2026-04-17 213037" src="https://github.com/user-attachments/assets/e20f8b5d-7e37-434b-bb84-48731940f8d8" />
